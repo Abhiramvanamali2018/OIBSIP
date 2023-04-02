@@ -1,0 +1,182 @@
+@media all and (max-width : 1200px) {     /* 1200px */
+    
+    html {
+  
+    font-size: 58.25%;
+  } 
+
+  .section--about{
+    padding: 32rem 0;
+    padding-bottom: 8rem;
+  }
+
+  /* .padd{
+    padding: 2.5rem;
+  } */
+
+  .teams{
+    position: relative;
+   
+  }
+
+  .feature--box:first-child{
+    margin-top: 15rem;
+    text-align: center;
+  }
+
+  .feature--box{
+    width: 95%;
+    margin: 0 auto;
+    font-size: 2.5rem;
+   
+
+  }
+
+  .picture__content ul li{
+    font-size: 1.2rem;
+  }
+
+  .subtitle--2{
+    width: 100%;
+    padding: 0;
+  }
+
+  
+
+}
+
+@media all and (max-width : 900px) {    /* 900px */
+ html {
+  
+    font-size:51.5%;
+  
+  }
+  
+  body{
+    padding: 0;
+  }
+
+  
+}
+
+
+@media all and (max-width: 823px) {           /* 600px */     
+ html {
+  
+    font-size: 56.5% ;
+   
+  }
+
+  .header{
+    font-size: 38.5%;
+  }
+
+  .padd{
+    padding: 4.5rem;
+  }
+
+  .teams{
+    margin-top: 15rem;
+  }
+
+  .section--about{
+   padding: 25rem 0;
+    margin-top: -20vh;
+    
+  }
+
+  .heading--primary__main{
+    letter-spacing: 1rem;
+    font-size: 6rem;
+  }
+
+  .teams{
+    position: relative;
+   
+  }
+
+  .feature--box:first-child{
+    margin-top: 15rem;
+    text-align: center;
+  }
+
+  .feature--box{
+    width: 75%;
+    margin: 0 auto;
+   
+
+  }
+
+  .content__2 ul li{
+    font-size: 1.4rem;
+  }
+  
+  /* .composition{
+    position: absolute;
+    transform: translateY(50%)
+  } */
+
+  .picture{
+    background-position: top;
+  }
+
+  .picture--2{
+    background-position: center;
+  }
+
+  .photo--3{
+     left:20%;
+    top: 12rem ;
+}
+
+  .Greatest--photo{
+    margin-bottom: 4rem;
+  }
+
+  .foot{
+    font-size: 2rem;
+    
+  }
+
+  .footer{
+    padding: 1rem;
+    
+  }
+  
+  .center{
+    padding: 7rem;
+    
+  }
+
+
+}
+
+
+@media all and (max-width: 580px) {
+  .heading--primary__main{
+    font-size: 4rem;
+    font-weight: 700;
+  }
+
+  .heading--primary__sub{
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .photo--3{
+     left:20%;
+    top: 15rem ;
+}
+} 
+
+@media all and (max-width: 375px) {
+  html{
+    font-size:39.5%; 
+  }
+   .padd{
+    padding: 4.5rem;
+  }
+}
+
+
+
